@@ -199,6 +199,6 @@ The following tools and resources were used or should be documented as applicabl
 - **ChatGPT:** AI-assisted development guidance, code explanations, algorithm analysis, and documentation assistance.
 - **IDE:** Visual Studio Code
 - **Search engines:** Google
-- **IDE extensions and other AI tools:** C# devkit, REST Client
+- **IDE extensions:** C# devkit, REST Client
 - **Video Links:** [ASP.NET Core Full Course For Beginners (.NET 10)](https://youtu.be/YbRe4iIVYJk?si=BNMZFymhj3jMx-xW)
 
