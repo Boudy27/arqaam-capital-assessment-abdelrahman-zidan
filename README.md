@@ -200,5 +200,5 @@ The following tools and resources were used or should be documented as applicabl
 - **IDE:** Visual Studio Code
 - **Search engines:** Google
 - **IDE extensions and other AI tools:** C# devkit, REST Client
-- **Video Links:** [text](https://youtu.be/YbRe4iIVYJk?si=BNMZFymhj3jMx-xW)
+- **Video Links:** [ASP.NET Core Full Course For Beginners (.NET 10)](https://youtu.be/YbRe4iIVYJk?si=BNMZFymhj3jMx-xW)
 
